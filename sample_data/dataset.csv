@@ -1,11 +1,13 @@
-ID,Name,Age,City,Salary
-1,Isaiah,19,Greenfield,25000
-2,Kevin,20,Salinas,30000
-3,Edward,21,Monterey,28000
-4,Isaiah,19,Greenfield,25000
-5,Sarah,22,,35000
-6,Michael,,San Jose,42000
-7,Emily,24,Fresno,
-8,Kevin,20,Salinas,30000
-9,David,23,Gilroy,33000
-10,Ashley,25,Hollister,39000
+CustomerID,FirstName,LastName,Email,City,State,Age,Membership,PurchaseAmount
+1001,John,Doe,john.doe@example.com,Springfield,CA,28,Gold,125.50
+1002,Jane,Smith,jane.smith@example.com,Fairview,TX,34,Silver,89.99
+1003,Michael,Johnson,m.johnson@example.com,Laketown,FL,41,Gold,210.00
+1004,Sarah,Williams,sarah.w@example.com,Hillcrest,WA,25,Bronze,45.25
+1005,Emily,Brown,emily.b@example.com,Riverton,OR,31,Silver,132.80
+1006,John,Doe,john.doe@example.com,Springfield,CA,28,Gold,125.50
+1007,David,Miller,,Greenfield,CA,37,Gold,310.00
+1008,Ashley,Garcia,ashley.g@example.com,Oakridge,NV,,Silver,94.50
+1009,Kevin,Lee,kevin.lee@example.com,Lakeside,AZ,29,Gold,
+1010,Emily,Brown,emily.b@example.com,Riverton,OR,31,Silver,132.80
+1011,Daniel,Clark,daniel.c@example.com,Brookfield,CO,45,Bronze,58.90
+1012,Olivia,Martinez,olivia.m@example.com,Mapleton,UT,27,Silver,175.40
